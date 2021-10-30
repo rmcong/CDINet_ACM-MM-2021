@@ -4,12 +4,12 @@ Chen Zhang, Runmin Cong, Qinwei Lin, Lin Ma, Feng Li, Yao Zhao, and Sam Kwong, C
 
 Project: https://rmcong.github.io/proj_RRNet.html
 
-## Code and Results of RRNet:
+## Code and Results of CDINet:
 
 Coming sonn......
 
 
-## If you use our RRNet, please cite our paper:
+## If you use our CDINet, please cite our paper:
 
     @inproceedings{CDINet,
       title={Cross-modality Discrepant Interaction Network for {RGB-D} Salient Object Detection},
